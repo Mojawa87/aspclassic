@@ -26,7 +26,7 @@ rsMerchant               = Request.QueryString("name")
 <!-- // Revisions   : None                                                 // -->
 <!-- // Date        : June , 2018                                        // -->
 <!-- // Author      : Michael Gasa                                           // -->
-<!-- // Copyright   : © 2000-2002 Nedcor Bank Ltd.                         // -->
+<!-- //                         // -->
 <!-- //////////////////////////////////////////////////////////////////////// -->
 <!--#include file="../Menu/ServerVariable.asp"-->
 <html xmlns ="http://www.w3.org/1999/xhtml" >
